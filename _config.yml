@@ -1,0 +1,14 @@
+layout_spectrum: 0.6266286361496896
+typography_spectrum: 0.04456297657452524
+color:
+  brandStrength: 0.5110194573644549
+  lightness: 0.6459931093268096
+  saturation: 0.17504020524211228
+  rhythmicContrast: 0.03298843069933355
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: altspacevr
